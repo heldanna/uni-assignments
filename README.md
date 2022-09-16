@@ -7,4 +7,4 @@ COP 3223 (Intro to Programming with C) - Fall 2021
 COP 3502 (Computer Science 1), COP 3330 (Object Oriented Programming) - Spring 2022
 
 # What's up with the random "project" file?
-It's my final group project for CDA 3103 (Computer Logic and Organization), which I took in Spring 2022!
+It's my final group project for CDA 3103 (Computer Logic and Organization), which I took in Spring 2022! The assignment instructions can be found in the ProjectGuideline PDF.
