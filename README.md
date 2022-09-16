@@ -1,5 +1,5 @@
 # Why create this repository?
-So I can show others what I've worked on, and connect with people through code and our coursework!
+So I can demonstrate to others what I've worked on, and connect with my peers through code and our coursework!
 
 # When did you take these courses?
 COP 3223 (Intro to Programming with C) - Fall 2021
@@ -11,3 +11,6 @@ It's my final group project for CDA 3103 (Computer Logic and Organization), whic
 
 # Which languages did you use in these assignments?
 For 3330, I used Java, and for the rest I used C.
+
+# Anything else you want to say?
+Yes! This code is all from past classes. I will upload code from my current courses once I have completed them. I don't think any of the professors I had for these classes reuse assignments, hence why I am comfortable posting them now. Enjoy taking a look at my coding journey!
