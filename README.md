@@ -1,2 +1,2 @@
-# uni-assignments
-shoutout to my mentor for encouraging me to post my programs for my past courses instead of letting them hide in my computer
+# why create this repository?
+So I can show others what I've worked on, and connect with people through code and our coursework. :)
